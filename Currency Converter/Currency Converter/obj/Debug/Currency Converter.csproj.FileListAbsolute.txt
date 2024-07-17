@@ -1,0 +1,15 @@
+E:\code files\Currency Converter\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe.config
+E:\code files\Currency Converter\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+E:\code files\Currency Converter\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+E:\code files\Currency Converter\Currency Converter\Currency Converter\bin\Debug\Newtonsoft.Json.dll
+E:\code files\Currency Converter\Currency Converter\Currency Converter\bin\Debug\RestSharp.dll
+E:\code files\Currency Converter\Currency Converter\Currency Converter\bin\Debug\Newtonsoft.Json.xml
+E:\code files\Currency Converter\Currency Converter\Currency Converter\bin\Debug\RestSharp.xml
+E:\code files\Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.AssemblyReference.cache
+E:\code files\Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.Form1.resources
+E:\code files\Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+E:\code files\Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.GenerateResource.cache
+E:\code files\Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+E:\code files\Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency.F9AF2F12.Up2Date
+E:\code files\Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.exe
+E:\code files\Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.pdb
